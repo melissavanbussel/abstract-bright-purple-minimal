@@ -1,0 +1,137 @@
+---
+title: 'Presentation Title'
+author: 'Your Name Goes Here'
+format:
+  revealjs:
+    theme: custom.scss
+    highlight-style: monochrome
+    title-slide-attributes: 
+      data-background-image: 'images/title1.png'
+---
+
+## Slide 1 {.theme-slide1}
+
+This is some regular text, and this is some **bold text**, and  [this](https://google.com) is a hyperlink. This is some `inline_code`.
+
+* This is a list item
+* So is this
+* And this
+
+```{r}
+#| echo: true
+#| eval: false
+print('This is some code')
+```
+
+:::footer
+
+This is a footer with a link: [https://wwww.google.com](https://wwww.google.com)
+
+:::
+
+# Section 1 {.theme-section1 .center}
+
+## Slide 2 {.theme-slide2}
+
+This is some regular text, and this is some **bold text**, and  [this](https://google.com) is a hyperlink. This is some `inline_code`.
+
+* This is a list item
+* So is this
+* And this
+
+```{r}
+#| echo: true
+#| eval: false
+print('This is some code')
+```
+
+:::footer
+
+This is a footer with a link: [https://wwww.google.com](https://wwww.google.com)
+
+:::
+
+## Slide 3 {.theme-slide3}
+
+This is some regular text, and this is some **bold text**, and  [this](https://google.com) is a hyperlink. This is some `inline_code`.
+
+* This is a list item
+* So is this
+* And this
+
+```{r}
+#| echo: true
+#| eval: false
+print('This is some code')
+```
+
+:::footer
+
+This is a footer with a link: [https://wwww.google.com](https://wwww.google.com)
+
+:::
+
+# Section 2 {.theme-section2 .center}
+
+## Slide 4 {.theme-slide4}
+
+This is some regular text, and this is some **bold text**, and  [this](https://google.com) is a hyperlink. This is some `inline_code`.
+
+* This is a list item
+* So is this
+* And this
+
+```{r}
+#| echo: true
+#| eval: false
+print('This is some code')
+```
+
+:::footer
+
+This is a footer with a link: [https://wwww.google.com](https://wwww.google.com)
+
+:::
+
+## Slide 5 {.theme-slide5}
+
+This is some regular text, and this is some **bold text**, and  [this](https://google.com) is a hyperlink. This is some `inline_code`.
+
+* This is a list item
+* So is this
+* And this
+
+```{r}
+#| echo: true
+#| eval: false
+print('This is some code')
+```
+
+:::footer
+
+This is a footer with a link: [https://wwww.google.com](https://wwww.google.com)
+
+:::
+
+# Section 3 {.theme-section3 .center}
+
+## Slide 6 {.theme-slide6}
+
+This is some regular text, and this is some **bold text**, and  [this](https://google.com) is a hyperlink. This is some `inline_code`.
+
+* This is a list item
+* So is this
+* And this
+
+```{r}
+#| echo: true
+#| eval: false
+print('This is some code')
+```
+
+:::footer
+
+This is a footer with a link: [https://wwww.google.com](https://wwww.google.com)
+
+:::
+
